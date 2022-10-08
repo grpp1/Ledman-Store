@@ -99,6 +99,7 @@
         "b66bccb7-b8c3-4fd1-a633-9f0dc16610cc": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/H28cc5cc572cd4679a0f1c3105511d37cj.jpg",
             "image_padding": false
           }
         },
