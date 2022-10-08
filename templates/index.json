@@ -89,30 +89,30 @@
     "collage": {
       "type": "collage",
       "blocks": {
-        "collection-0": {
-          "type": "collection",
+        "2cdf7559-851f-4183-9bef-9891f1779d2a": {
+          "type": "image",
           "settings": {
-            "collection": ""
+            "image": "shopify:\/\/shop_images\/02fcce8af190dd9a81b42f1e27fc2810.jpg",
+            "image_padding": false
           }
         },
-        "product": {
-          "type": "product",
+        "b66bccb7-b8c3-4fd1-a633-9f0dc16610cc": {
+          "type": "image",
           "settings": {
-            "product": "",
-            "second_image": false
+            "image_padding": false
           }
         },
-        "collection-1": {
-          "type": "collection",
+        "458b8e80-70c6-4cff-a769-6a794d2a6ae1": {
+          "type": "image",
           "settings": {
-            "collection": ""
+            "image_padding": false
           }
         }
       },
       "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
+        "2cdf7559-851f-4183-9bef-9891f1779d2a",
+        "b66bccb7-b8c3-4fd1-a633-9f0dc16610cc",
+        "458b8e80-70c6-4cff-a769-6a794d2a6ae1"
       ],
       "settings": {
         "heading": "Multimedia collage",
