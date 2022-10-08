@@ -106,6 +106,7 @@
         "458b8e80-70c6-4cff-a769-6a794d2a6ae1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/382a87c591a101fbbb81ab440ac8ef38.jpg",
             "image_padding": false
           }
         }
