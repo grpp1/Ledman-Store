@@ -147,8 +147,8 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Ryan",
+            "text": "<p>Very nice and bright, ideal for kids' study area, highly recommended for both design and quality<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -156,8 +156,8 @@
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Ovry",
+            "text": "<p>Very good item, really lights up the room well.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -165,8 +165,8 @@
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Rexy",
+            "text": "<p>beautiful and bright Especially at night<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -178,8 +178,8 @@
         "column3"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
+        "title": "What Customer Says!",
+        "heading_size": "h2",
         "image_width": "third",
         "image_ratio": "adapt",
         "columns_desktop": 3,
@@ -193,6 +193,42 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "b736cd73-4e04-46f7-8b32-e1e2443b5577": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16637441736924__b736cd73-4e04-46f7-8b32-e1e2443b5577-1665214127be657ef0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get in touch",
+            "heading_size": "h1"
+          }
+        },
+        "template--16637441736924__b736cd73-4e04-46f7-8b32-e1e2443b5577-1665214127be657ef0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Email: Ledmanstore@gmail.com<\/p><p>Phone no: 09193383296<\/p><p>Store Hours:<\/p><p>Mon\/Sat: 8 AM - 10PM<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16637441736924__b736cd73-4e04-46f7-8b32-e1e2443b5577-1665214127be657ef0-0",
+        "template--16637441736924__b736cd73-4e04-46f7-8b32-e1e2443b5577-1665214127be657ef0-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/310227931_467955898684823_4406264546479565969_n.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "accent-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -201,6 +237,7 @@
     "featured_collection",
     "collage",
     "video",
-    "multicolumn"
+    "multicolumn",
+    "b736cd73-4e04-46f7-8b32-e1e2443b5577"
   ]
 }
