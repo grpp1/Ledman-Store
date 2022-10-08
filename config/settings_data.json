@@ -180,7 +180,7 @@
         "settings": {
           "color_scheme": "accent-1",
           "newsletter_enable": true,
-          "newsletter_heading": "Subscribe to our emails",
+          "newsletter_heading": "Subscribe to our email",
           "show_social": true,
           "enable_country_selector": true,
           "enable_language_selector": true,
